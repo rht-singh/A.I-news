@@ -52,6 +52,7 @@ const App = () => {
           <img src={bot} className={classes.alanLogo} alt="alan-logo" />
         </div>
       )}
+      
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
     </div>
   );
