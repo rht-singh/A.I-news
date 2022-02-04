@@ -5,4 +5,4 @@
 - Built using **ReactJS** for frontend **Material UI** for styling, **NewsAPI** to fetch the news and **Alan AI** for voice commands.
 
 - [Live Version](https://alannewsreader.netlify.app/)
-- [Certificate].(https://drive.google.com/file/d/1Mq1YCydCcT_4fnJ6pW4LjJlTSUXQOwhS/view?usp=sharing)
+- [Certificate](https://drive.google.com/file/d/1Mq1YCydCcT_4fnJ6pW4LjJlTSUXQOwhS/view?usp=sharing)
